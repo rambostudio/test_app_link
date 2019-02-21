@@ -1,0 +1,26 @@
+[
+{
+relation: [
+"delegate_permission/common.handle_all_urls"
+],
+target: {
+namespace: "android_app",
+package_name: "com.kasikorn.retail.mbanking.wap2",
+sha256_cert_fingerprints: [
+"F7:FA:10:68:91:63:D3:85:F7:5F:6C:A5:0A:79:30:11:89:E6:78:17:87:56:47:40:FF:2A:D2:B3:A7:AC:25:A5"
+]
+}
+},
+{
+relation: [
+"delegate_permission/common.handle_all_urls"
+],
+target: {
+namespace: "android_app",
+package_name: "com.kasikorn.retail.mbanking.wap2",
+sha256_cert_fingerprints: [
+"0E:B2:FB:51:6F:9D:A8:FD:BD:F0:38:2D:6C:FF:DF:1B:D0:FA:98:0C:22:C9:A2:3E:B3:69:28:0F:14:28:1B:42"
+]
+}
+}
+]
